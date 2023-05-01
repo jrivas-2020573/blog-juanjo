@@ -1,8 +1,8 @@
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  title: 'Blog de Proyectos Juan Jose ',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
+    'Este es un blog en el cual se estara actualizando constanstemente conforme vaya subiendo mis proyectos realizados durante este año',
   url: 'https://example.com',
   locale: 'en',
   author: 'Anonymous',
